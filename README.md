@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm samudev</h1>
-<h3 align="center">Cuban Frontend Developer</h3>
+<h3 align="center">Cuban FullStack JavaScript Developer & Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/@perezsamuel818" target="blank"><img src="https://img.shields.io/twitter/follow/@perezsamuel818?logo=twitter&style=for-the-badge" alt="@perezsamuel818" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 💻 I’m currently working on **NTSprint**
 
-- 💬 Ask me about **React, Astro, JavaScript, Django and Python**
+- 💬 Ask me about **Next.js, React, Astro, JavaScript, Django and Python**
 
 - 📫 How to reach me **sambea2103@gmail.com**
 
