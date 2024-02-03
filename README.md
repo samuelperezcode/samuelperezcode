@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm samudev</h1>
+<h2 align="center">Hey, I have friends and her lastname is Medina, he is a tank<img width="48" height="48" src="https://img.icons8.com/color/48/tank.png" alt="tank"/></h2>
 <h3 align="center">Cuban FullStack JavaScript Developer & Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/@perezsamuel818" target="blank"><img src="https://img.shields.io/twitter/follow/@perezsamuel818?logo=twitter&style=for-the-badge" alt="@perezsamuel818" /></a> </p>
